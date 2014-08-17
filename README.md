@@ -21,6 +21,12 @@ Key Data Files
 * Results code book: code_book.md
 
 
+Bonus analysis
+-------------
+
+The file bonus_anaysis.R includes a function to plot summary data by activity for a designated variable. The file also includes code to produce a classification tree to identify activity based on accelerometer and gyroscope data.
+
+
 References
 -------------
 Data for this project obtained from the UCI Machine Learning Repository.
