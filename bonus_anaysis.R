@@ -4,6 +4,8 @@
 ## This script includes some code which will analyze data in the subject_summary
 ## data frame that is produced by run_analysis.R
 
+## Note: This analysis requires packages rpart and rpart.plot
+
 
 ##
 ## Simple function to create box plots for any given column
